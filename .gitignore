@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Typescript library output
+/lib
+
+# Webstorm IDE files
+/.idea
+
+# Node's package-lock
+package-lock.json
