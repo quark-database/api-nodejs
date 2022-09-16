@@ -2,7 +2,7 @@
   "name": "quark-api",
   "version": "1.1.0",
   "description": "The Quark API for Node.js developers.",
-  "main": "src/index.ts",
+  "main": "src/client.ts",
   "files": ["lib/**/*"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
